@@ -1,7 +1,5 @@
-//Họ Và Tên: Lê Thế Anh
-//MSSV: 20200018
-//Mã lớp TH: 721428
-//Lap 03: 24/11/2022
+//Họ Và Tên: Hoàng Minh Ngọc 20200440
+//Mã lớp TH: 721427
 package hust.soict.dsai.aims.disc.DigitalVideoDisc;
 
 import java.lang.String;
