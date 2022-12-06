@@ -2,7 +2,6 @@
 //Mã lớp TH: 721427
 package hust.soict.dsai.aims.cart.Cart;
 
-import hust.soict.dsai.aims.disc.DigitalVideoDisc.DigitalVideoDisc;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -149,5 +148,6 @@ public class Cart {
     			System.out.println("Don't found this title in your cart!");
     		}
     }
+	
     
 }
