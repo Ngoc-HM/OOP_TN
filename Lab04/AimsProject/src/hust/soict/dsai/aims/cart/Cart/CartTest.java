@@ -2,18 +2,16 @@
 //Mã lớp TH: 721427
 
 
-package hust.soict.dsai.test.store.StoreTest;
+package hust.soict.dsai.aims.cart.Cart;
 import java.util.ArrayList;
 import java.util.List;
 
 import hust.soict.dsai.aims.media.Book;
 import hust.soict.dsai.aims.media.CompactDisc;
 import hust.soict.dsai.aims.media.DigitalVideoDisc;
-import hust.soict.dsai.aims.media.Disc;
 import hust.soict.dsai.aims.media.Media;
-import hust.soict.dsai.aims.store.Store.Store;
 
-public class StoreTest {
+public class CartTest {
 	public static void main(String[] args) {
 		List<String> authors = new ArrayList<String>();
 		authors.add("abc");
