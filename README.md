@@ -4,3 +4,4 @@ Bài tập môn Thực hành Hướng Đối Tượng
 Thanks
 
 - Lab03 lỗi hiển thị, bấm mở lab03 sẽ thấy thời gian up file đúng 
+, ngày 2/1 thêm comment mà nó load hết bài @@ ko hiểu vì sao 
